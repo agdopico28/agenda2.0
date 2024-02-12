@@ -1,0 +1,9 @@
+1.
+Creo el método correspondiente en el respositorio, posteriormente en el servicio y luego en el controlador.
+Finalmente compruebo con el cliente que funciona correctamente.
+
+2.
+El controlador tiene @PutMapping y @GetMapping, dependiendo del tipo de petición realizará una acción u otra, aunque la ruta sea la misma.
+
+3.
+Establece la ruta que seguirán todos los métodos del controlador.
